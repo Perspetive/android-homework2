@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kek</string>
+    <string name="ratio_a">Введите коэффициент a</string>
+    <string name="ratio_b">Введите коэффициент b</string>
+    <string name="ratio_c">Введите коэффициент c</string>
+    <string name="answer">Ответ : </string>
+    <string name="button_text">Рассчитать</string>
+</resources>
